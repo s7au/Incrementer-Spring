@@ -1,9 +1,9 @@
-package com.paytm.data;
+package com.incrementer.data;
 
 import java.math.BigDecimal;
 import java.util.Date;
 
-import com.paytm.dto.AnalyticsObject;
+import com.incrementer.dto.AnalyticsObject;
 
 public interface DataStructureInterface {
     /**

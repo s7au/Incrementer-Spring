@@ -1,4 +1,4 @@
-package com.paytm.data;
+package com.incrementer.data;
 
 import java.io.File;
 import java.io.IOException;
@@ -20,7 +20,7 @@ import com.google.common.base.Charsets;
 import com.google.common.io.CharSink;
 import com.google.common.io.CharSource;
 import com.google.common.io.Files;
-import com.paytm.dto.AnalyticsObject;
+import com.incrementer.dto.AnalyticsObject;
 
 @Component
 public class InterfaceImplementation implements DataStructureInterface {

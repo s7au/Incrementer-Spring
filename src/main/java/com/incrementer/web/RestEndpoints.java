@@ -1,4 +1,4 @@
-package com.paytm.web;
+package com.incrementer.web;
 
 import java.math.BigDecimal;
 import java.net.URISyntaxException;
@@ -18,8 +18,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.paytm.data.InterfaceImplementation;
-import com.paytm.dto.AnalyticsObject;
+import com.incrementer.data.InterfaceImplementation;
+import com.incrementer.dto.AnalyticsObject;
 
 @RestController
 public class RestEndpoints {

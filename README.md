@@ -1,4 +1,6 @@
-Shawn Au Paytm Code Challenge
+Shawn Au Code Challenge
+
+This was originally a code challenge for a company application. I figure it would be pretty useful to remind myself of Spring concepts.
 
 Run using the command
 mvn spring-boot:run

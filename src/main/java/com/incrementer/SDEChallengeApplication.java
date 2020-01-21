@@ -1,4 +1,4 @@
-package com.paytm;
+package com.incrementer;
 
 import java.net.InetAddress;
 
@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.core.env.Environment;
 
-import com.paytm.data.InterfaceImplementation;
+import com.incrementer.data.InterfaceImplementation;
 
 @SpringBootApplication
 public class SDEChallengeApplication {

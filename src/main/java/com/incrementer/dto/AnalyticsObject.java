@@ -1,4 +1,4 @@
-package com.paytm.dto;
+package com.incrementer.dto;
 
 // object that 'analytics' get returned from
 public class AnalyticsObject {
